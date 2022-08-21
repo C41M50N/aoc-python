@@ -1,0 +1,8 @@
+{
+    "python.testing.pytestPath": "/home/crimsoncoder/.local/share/virtualenvs/aoc-python-Lb6iFypk/bin/pytest",
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
